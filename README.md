@@ -15,3 +15,10 @@
 * Principal Component Analysis and Unsupervised Learning:
 [code/hw2/pca.ipnyb](https://github.com/micontre/computational_physics/blob/main/code/hw2/pca.ipynb)
 
+## Homework 3: Turing patterns and phase separation. 
+
+* Phase separation, initial value problems, and the Method of Lines: [code/hw3/allen_cahn.ipynb]
+(https://github.com/micontre/computational_physics/blob/main/code/hw3/allen_cahn.ipynb)
+
+* Turing's model of morphogenesis and spectral methods: [code/hw3/turing.ipynb]
+(https://github.com/micontre/computational_physics/blob/main/code/hw3/turing.ipynb)
