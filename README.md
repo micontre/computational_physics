@@ -20,3 +20,7 @@
 * Phase separation, initial value problems, and the Method of Lines: [code/hw3/allen_cahn.ipynb](https://github.com/micontre/computational_physics/blob/main/code/hw3/allen_cahn.ipynb)
 
 * Turing's model of morphogenesis and spectral methods: [code/hw3/turing.ipynb](https://github.com/micontre/computational_physics/blob/main/code/hw3/turing.ipynb)
+
+## Homework 4: Ridge regression and learning operators. 
+
+* Ridge Regression model, predicting the next values of the Navier-Stokes equations: [code/hw4/ridge_regression.ipynb](https://github.com/micontre/computational_physics/blob/main/code/hw4/ridge_regression.ipynb)
